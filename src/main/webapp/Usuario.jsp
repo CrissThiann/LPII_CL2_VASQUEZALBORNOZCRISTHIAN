@@ -4,6 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
+<link href="css/web1.css" type="text/css" rel="stylesheet">
 <title>Ventana del Usuario</title>
 </head>
 <body>
@@ -24,7 +25,7 @@
  
    		<tr>
         <td colspan="2" align="center">
-        <input type="submit" value="Ingresar">
+        <input class="botoncito" type="submit" value="Ingresar">
         </td>
         </tr>
 </table>

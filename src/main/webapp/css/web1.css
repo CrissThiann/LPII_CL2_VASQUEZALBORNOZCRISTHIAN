@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+
+body{
+	background-image:
+                  url("../img/experiencia-de-usuario-ux.png");
+     background-size:cover;
+     background-position: center;
+}
+h2, td{
+	font-family: Sans-Serif;
+	font-size: 35px;
+	font-weight:bold;
+	color:black;
+	margin-top:35px;
+}
+.botoncito{
+	border-radius:3px;
+	 background-color: sky blue;
+	 font-size:10px
+}
