@@ -4,12 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
-<title>Vent. Usuario</title>
+<title>Ventana del Usuario</title>
 </head>
 <body>
 <h2 align="center">Ingresar al Sistema</h2>
 <form action="ServletUsuario" method="post">
-<table align="center" border="1">
+<table align="center" border="3">
+
        <tr>
        <td>Usuario</td>
        <td><input type="text" name="usuario"></td>
@@ -17,16 +18,15 @@
        
        <tr>
        <td>Contraseña</td>
-       <td><input type="password" name="contraseña"></td>
+       <td><input type="password" name="password"></td>
        </tr>
     
  
-   		<tr align="center">
-		<td colspan="3">
-      
-         <button type="submit">Registrar Usuario</button>
-		</td>
-		</tr>
+   		<tr>
+        <td colspan="2" align="center">
+        <input type="submit" value="Ingresar">
+        </td>
+        </tr>
 </table>
 
 

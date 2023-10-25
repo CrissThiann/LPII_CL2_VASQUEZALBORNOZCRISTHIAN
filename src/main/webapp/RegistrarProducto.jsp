@@ -2,6 +2,7 @@
     pageEncoding="ISO-8859-1"%>
 <%@page import="model.TblProductocl2" %>
 <%@page import="java.util.*" %>
+<link href="css/estilos.css" type="text/css" rel="stylesheet">
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>

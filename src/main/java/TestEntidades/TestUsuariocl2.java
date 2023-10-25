@@ -13,7 +13,7 @@ public class TestUsuariocl2 {
 	   TblUsuariocl2 usucl2 = new TblUsuariocl2();
 	   ClassCrudUsuarioImp crudcl2us = new ClassCrudUsuarioImp();
 	   
-	   usucl2.setUsuariocl2("criss");
+	   usucl2.setUsuariocl2("crisstthiann");
 	   usucl2.setPasswordcl2("criss21");
 	   
 	   crudcl2us.RegistrarUsuario(usucl2);
